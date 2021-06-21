@@ -1,7 +1,6 @@
 {
   "name": "newsfeed-api",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -19,5 +18,14 @@
   },
   "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christenson10/just-tech-news.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christenson10/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/christenson10/just-tech-news#readme",
+  "description": ""
 }
